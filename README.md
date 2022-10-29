@@ -6,7 +6,7 @@
 2. Log in:
   - Username: `team#` where # is your team number
   - Password: `team#` where # is your team number
-3. Download the competition sample input and output files from https://github.com/wrightedu/2021
+3. Download the competition sample input and output files from https://github.com/wrightedu/2022
   - Click the green `Code` button, then click `Download as zip`
 4. Extract the files to somewhere convenient (Desktop is recommended)
 5. No internet access is allowed during the comptetion.  **If you need to get the files again, summon a judge / room monitor.**
